@@ -20,7 +20,7 @@ Hey, This is Suman :wave: . This repo contains the codes of solved problems of [
 2. Fork your own copy from this repository. 
 3. Add your codes to the available topics Or,
     
-    * If you want to add new topics/Skills then make a folder in this format 
+    * If you want to add new Topics/Skills then make a folder in this format 
         ```hackerrank-<skill_name>```
     * Push your codes in that folder
 4. Send a Pull request to the main repository
